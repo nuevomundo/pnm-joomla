@@ -1,7 +1,8 @@
 # Testing
 
-1. Go to the testing checklist here: https://docs.google.com/spreadsheet/ccc?key=0AryL2uG4GZZ8dEsxUEtWMmVtaHJkTFJBdEtBZklacHc
+1. Go to the [testing checklist](https://docs.google.com/spreadsheet/ccc?key=0AryL2uG4GZZ8dEsxUEtWMmVtaHJkTFJBdEtBZklacHc)
 1. Add issues using the [issues tab](https://github.com/nuevomundo/pnm-joomla/issues)
+2. Reference the github issue number in the checklist.
 
 # Development Setup
 
